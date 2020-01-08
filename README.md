@@ -32,3 +32,5 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/alimento.
+
+[![Coverage Status](https://coveralls.io/repos/github/alu0101049151/tdd_copia_alu0101049151/badge.svg?branch=master)](https://coveralls.io/github/alu0101049151/tdd_copia_alu0101049151?branch=master)
