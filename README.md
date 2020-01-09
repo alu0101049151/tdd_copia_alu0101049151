@@ -1,7 +1,7 @@
-## Comprobación con Travis CI:
+## Travis CI:
 [![Build Status](https://travis-ci.com/alu0101049151/tdd_copia_alu0101049151.svg?branch=master)](https://travis-ci.com/alu0101049151/tdd_copia_alu0101049151)
 
-## Comprobación con Coveralls:
+# Coveralls:
 [![Coverage Status](https://coveralls.io/repos/github/alu0101049151/tdd_copia_alu0101049151/badge.svg?branch=master)](https://coveralls.io/github/alu0101049151/tdd_copia_alu0101049151?branch=master)
 
 # Alimento
